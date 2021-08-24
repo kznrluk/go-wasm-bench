@@ -12,5 +12,6 @@ func main() {
 	println(stop - start)
 	// M1 Mac native go 189659000
 	// Firefox wasm     1665000000
+	// Chrome wasm      783000000
 }
 ```
